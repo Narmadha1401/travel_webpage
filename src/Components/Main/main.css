@@ -58,7 +58,7 @@
   width: 100%;
   overflow: hidden;
 }
-.main .secContent .singleDestination .imageDiv iimg {
+.main .secContent .singleDestination .imageDiv img {
   height: 100%;
   width: 100%;
   -o-object-fit: cover;
